@@ -1,5 +1,8 @@
 # map-indexed-xf
 
+[![Circle CI](https://circleci.com/gh/AgentME/map-indexed-xf.svg?style=shield)](https://circleci.com/gh/AgentME/map-indexed-xf)
+[![npm version](https://badge.fury.io/js/map-indexed-xf.svg)](https://badge.fury.io/js/map-indexed-xf)
+
 This module defines a function that returns a transducer which calls a given
 function with each value and its index. This transducer may be used with
 Javascript transducer libraries such as
