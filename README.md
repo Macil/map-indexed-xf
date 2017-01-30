@@ -1,4 +1,4 @@
-# MapIndexedXf
+# map-indexed-xf
 
 This module defines a function that returns a transducer which calls a given
 function with each value and its index. This transducer may be used with
@@ -11,7 +11,7 @@ Javascript transducer libraries such as
 ```js
 
 const t = require('transducers.js');
-const mapIndexed = require('mapindexedxf');
+const mapIndexed = require('map-indexed-xf');
 
 const result = t.toArray([5,6,7], t.compose(
   t.map(x => x*10),
