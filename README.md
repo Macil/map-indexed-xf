@@ -1,6 +1,6 @@
 # map-indexed-xf
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AgentME/map-indexed-xf/blob/master/LICENSE.txt) [![npm version](https://img.shields.io/npm/v/map-indexed-xf.svg?style=flat)](https://www.npmjs.com/package/map-indexed-xf) [![CircleCI Status](https://circleci.com/gh/AgentME/map-indexed-xf.svg?style=shield)](https://circleci.com/gh/AgentME/map-indexed-xf)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/AgentME/map-indexed-xf/blob/master/LICENSE.txt) [![npm version](https://img.shields.io/npm/v/map-indexed-xf.svg?style=flat)](https://www.npmjs.com/package/map-indexed-xf) [![CircleCI Status](https://circleci.com/gh/AgentME/map-indexed-xf.svg?style=shield)](https://circleci.com/gh/AgentME/map-indexed-xf) [![Greenkeeper badge](https://badges.greenkeeper.io/AgentME/map-indexed-xf.svg)](https://greenkeeper.io/)
 
 This module defines a function that returns a transducer which calls a given
 function with each value and its index. This transducer may be used with
