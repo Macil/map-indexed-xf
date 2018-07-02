@@ -4,8 +4,8 @@
   "description": "mapIndexed transducer",
   "main": "js/index.js",
   "scripts": {
-    "prepare": "babel -s inline -d js/ src/",
-    "test": "npm run lint && mocha",
+    "prepare": "rimraf js && babel -s inline -d js/ src/",
+    "test": "yarn run lint && mocha",
     "lint": "eslint .",
     "lint-fix": "eslint . --fix"
   },
@@ -34,6 +34,7 @@
     "babel-register": "^6.22.0",
     "eslint": "^5.0.0",
     "mocha": "^5.2.0",
+    "rimraf": "^2.6.2",
     "transducers.js": "^0.3.2"
   },
   "dependencies": {
