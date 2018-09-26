@@ -11,7 +11,6 @@ Javascript transducer libraries such as
 ## Example
 
 ```js
-
 const t = require('transducers.js');
 const mapIndexed = require('map-indexed-xf');
 
