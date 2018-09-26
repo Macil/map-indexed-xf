@@ -21,3 +21,8 @@ const result = t.toArray([5,6,7], t.compose(
 
 console.log(result); // [[0, 50], [1, 60], [2, 70]]
 ```
+
+## Types
+
+[TypeScript](https://www.typescriptlang.org/) type definitions for this module
+are included! The type definitions won't require any configuration to use.
