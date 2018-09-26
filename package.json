@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "mapIndexed transducer",
   "main": "js/index.js",
+  "sideEffects": false,
   "scripts": {
     "prepare": "rimraf js && babel -s inline -d js/ src/",
     "test": "yarn run lint && mocha",
