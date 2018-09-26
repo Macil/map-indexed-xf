@@ -561,6 +561,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@types/transducers.js@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@types/transducers.js/-/transducers.js-0.3.0.tgz#5cd30bbadc7a4ccd6720b3121cd7dcc91e90827b"
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -2400,6 +2404,10 @@ type-check@~0.3.2:
   resolved "https://registry.yarnpkg.com/type-check/-/type-check-0.3.2.tgz#5884cab512cf1d355e3fb784f30804b2b520db72"
   dependencies:
     prelude-ls "~1.1.2"
+
+typescript@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.0.3.tgz#4853b3e275ecdaa27f78fda46dc273a7eb7fc1c8"
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
