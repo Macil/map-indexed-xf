@@ -34,7 +34,7 @@
     "@babel/register": "^7.0.0",
     "babel-plugin-add-module-exports": "^1.0.0",
     "eslint": "^6.0.0",
-    "mocha": "^6.0.0",
+    "mocha": "^7.0.1",
     "rimraf": "^3.0.0",
     "transducers.js": "^0.3.2",
     "typescript": "^3.0.3"
